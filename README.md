@@ -1,7 +1,7 @@
-# XPR_Android
+# apk RAT hack windows XPR_Android
 # 💿 Program Owner , By : UNKNOWN
 # Blue Eagle Android RAT for Android
-Hacking Wnidows / MAC / Linux / Adnroid  using your Android Phone
+Hacking Wnidows  using your Android Phone
 😲😎💪TCP Server RAT [Remote Access Trojan] Preview : 
 # to get this for free when it's done😎😎💪, Support By ==> Stars / Shares / Forking all previous versions 
 # make us feel perfect programs writers 😎😎💪💪💪👌👌👌
