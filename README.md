@@ -10,7 +10,7 @@ Hacking Wnidows  using your Android Phone
 <br>
 </p>
  <p align="center">
-<img src="https://raw.githubusercontent.com/UnkownFROM0NSA/XPR_Android/main/exe%20builder%20preview.png" width="150" height="300" >&nbsp &nbsp 
+<img src="https://raw.githubusercontent.com/UnkownFROM0NSA/XPR_Android/main/exe%20builder%20preview.png" >&nbsp &nbsp 
 <br>
 </p>
 
