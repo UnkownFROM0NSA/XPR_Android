@@ -5,7 +5,7 @@
 # open the RAT , press on your android recent apps button as marked "YELLOW" below , and then back to app again , it will be refreshed
  <p align="center"> &nbsp &nbsp <img src="https://raw.githubusercontent.com/UnkownFROM0NSA/XPR_Android/main/x0x.png" width="150" height="300" >&nbsp &nbsp 
  &nbsp &nbsp 
- # OR 
+OR
  &nbsp &nbsp<img src="https://raw.githubusercontent.com/UnkownFROM0NSA/XPR_Android/main/x0x1.png" width="150" height="300" >&nbsp &nbsp </p>
 Hacking Wnidows  using your Android Phone
 😲😎💪TCP Server RAT [Remote Access Trojan] Preview : 
